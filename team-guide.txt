@@ -1,2 +1,3 @@
 Team onboarding guide
 Keep changes small and readable.
+Run git status before committing.
