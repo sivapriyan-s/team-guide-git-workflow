@@ -1,3 +1,4 @@
 Team onboarding guide
 Keep changes small and readable.
 Run git status before committing.
+Pull main before starting a new feature.
